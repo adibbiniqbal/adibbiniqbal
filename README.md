@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adib Bin Iqbal</h1>
 <h3 align="center">A passionate CS student from Bangladesh</h3>
 
-- 🌱 I’m currently learning **DSA, Database, Python, html, css**
+- 🌱 I’m currently learning **DSA, Database, Python, Web Development**
 
 - 💬 Ask me about **DSA, OOP, Sturctured Programming, Discrete Maths**
 
