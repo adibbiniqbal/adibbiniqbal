@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Adib Bin Iqbal</h1>
-<h3 align="center">A passionate CS student from Bangladesh</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/Student-CSE, BUET-AC1E23?style=flat&logo=school&logoColor=white" alt="NSU" />
+    <img src="https://img.shields.io/badge/Location-Dhaka, Bangladesh-006a4e?style=flat&logo=googlemaps&logoColor=white" alt="Dhaka" />
+  </div>
 
 ###  Current Focus
 * **Academics:** Software Engineering and Mathematical Foundations of ML.
