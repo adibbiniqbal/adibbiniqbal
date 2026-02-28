@@ -27,8 +27,13 @@ A comprehensive archive of my undergraduate coursework, labs, and projects.
   <a href="https://codeforces.com/profile/adibbiniqbal">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=adibbiniqbal&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true" height="170" alt="Codeforces Stats" />
   </a>
+
   <a href="https://leetcode.com/u/adibbiniqbal/">
     <img src="https://leetcard.jacoblin.cool/adibbiniqbal?theme=nord&font=Ubuntu" height="170" alt="LeetCode Stats" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/adibbiniqbal">
+    <img src="https://gfgstatscard.vercel.app/adibbiniqbal" height="170" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
